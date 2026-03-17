@@ -143,7 +143,8 @@ Clean and professional dashboard design
 # Repository Structure
 Data : https://github.com/tusharnath200/HR-DASHBOARD/blob/main/HR%20Dashboard%202.pbix <hr />
 Dashboard :  (https://github.com/tusharnath200/HR-DASHBOARD/blob/main/HR%20Dashboard%202.pbix) <hr />
-Images : 
+Images :  ![WhatsApp Image 2026-03-17 at 20 46 37](https://github.com/user-attachments/assets/dae42440-f626-4916-8054-1dedd3e9ce90)
+
 # Feedback & Collaboration
 
 💡 Open to feedback and suggestions to improve the dashboard
