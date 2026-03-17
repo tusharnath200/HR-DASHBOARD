@@ -140,6 +140,10 @@ Clean and professional dashboard design
 
 🎯 Delivered data-driven insights for HR decisions
 
+# Repository Structure
+Data :
+Dashboard :  (https://github.com/tusharnath200/HR-DASHBOARD/blob/main/HR%20Dashboard%202.pbix) <hr />
+
 # Feedback & Collaboration
 
 💡 Open to feedback and suggestions to improve the dashboard
